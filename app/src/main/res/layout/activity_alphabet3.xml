@@ -6,4 +6,13 @@
     android:layout_height="match_parent"
     tools:context=".Alphabet3">
 
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="339dp"
+        android:layout_height="458dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/c" />
 </androidx.constraintlayout.widget.ConstraintLayout>
